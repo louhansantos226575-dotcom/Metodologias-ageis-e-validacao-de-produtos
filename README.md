@@ -135,14 +135,14 @@ O registro foi estruturado em um Google Forms criado com Google Apps Script. O f
 
 ## 8\. Base de respostas e evidências
 
-### 8.1 Perfil e H1 (problema) — dados simulados
+### 8.1 Perfil e H1 (problema)
 
 | Entrevistado | Perfil | Quem monta | Tempo por semana | Cliente tem dúvida? | H1 |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | Gustavo | Parcial (envio mensal) | Próprio(a) gestor(a) | 5h | Sim (custo por lead subiu, leads caíram) | Sim |
 | Zaia | Parcial (revisa o time) | Time | Time 10h, revisão 2 a 3h | Sim (muito alcance, poucas conversões) | Sim |
 | Julia | **Central** | Próprio(a) gestor(a) | 3 a 4h | "Não muito" (1 caso citado) | Não\* |
-| Izabela | Parcial (envio mensal; nº de clientes não registrado) | Próprio(a) gestor(a) | 6h | Sim (qualidade dos leads) | Sim |
+| Izabela | Parcial (envio mensal; 7) | Próprio(a) gestor(a) | 6h | Sim (qualidade dos leads) | Sim |
 | Geovanne | Parcial (revisa o time) | Time | Time 12h, revisão 3h | Sim (queda sem motivo claro) | Sim |
 
 \*Julia atingiu o tempo, mas disse que o cliente "não muito" tem dúvida. Pontuei de forma conservadora. Se contada como sim, a H1 vai a 5/5 e a decisão não muda.
@@ -248,12 +248,12 @@ Quem deu nota 4 ou 5 aceitou testar. Quem deu 2 ou 3, não. Os mesmos dois (Juli
 ```
 .
 ├── README.md
+├── relatorio_exemplo_dados_ficticios.pdf
+├── Parte Teórica Hipóteses e Estratégia de Validação (1).docx
 ├── docs/
-│   ├── lean-canvas.png
-│   └── relatorio_exemplo_dados_ficticios.pdf
-└── evidencias/
-    ├── evidencias_entrevistas.xlsx
-    └── [PREENCHER: registros originais (áudios, prints ou anotações)]
+   ├── lean-canvas.png
+   └── relatorio_exemplo_dados_ficticios.pdf
+   └── Pesquisa — Validação de Relatórios de Tráfego Pago (respostas) - Respostas ao formulário 1.csv
 ```
 
 &nbsp;
