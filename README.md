@@ -248,7 +248,6 @@ Quem deu nota 4 ou 5 aceitou testar. Quem deu 2 ou 3, não. Os mesmos dois (Juli
 ```
 .
 ├── README.md
-├── relatorio_exemplo_dados_ficticios.pdf
 ├── Parte Teórica Hipóteses e Estratégia de Validação (1).docx
 ├── docs/
    ├── lean-canvas.png
